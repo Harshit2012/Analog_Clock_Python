@@ -12,7 +12,7 @@ An analog clock app created using Python and Tkinter.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Harshit2012/analog-clock-app.git
+   git clone https://github.com/Harshit2012/analog-clock-app.git](https://github.com/Harshit2012/Analog_Clock_Python.git)
 2. Run the app:
    ```bash
    python Analog_clock.py
